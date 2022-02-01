@@ -1,3 +1,8 @@
 flask
 pyyaml
 requests
+plotly-calplot
+seaborn
+streamlit
+ipykernel
+black
